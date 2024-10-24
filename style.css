@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: rgb(16, 70, 14);
+    background-color: rgb(28, 89, 26);
     color: white;
 }
 
@@ -28,6 +28,8 @@ article {
     font-size: 18px;
     cursor: pointer;
     border-radius: 0.2rem;
+    border: none;
+    
 }
 
 output {
